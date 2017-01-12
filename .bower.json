@@ -1,11 +1,13 @@
 {
-  "name": "firebase-mock",
+  "name": "firebase-mock-v3",
   "version": "1.0.3",
-  "homepage": "https://github.com/soumak77/firebase-mock",
+  "homepage": "https://github.com/balaji-b-v/firebase-mock-v3",
   "authors": [
-    "Kato"
+    "Kato",
+    "soumak77",
+    "balaji-b-v"
   ],
-  "description": "Firebase mock library for writing unit tests",
+  "description": "Firebase mock  V3 library for writing unit tests",
   "main": "./browser/firebasemock.js",
   "moduleType": [
     "amd",
@@ -32,7 +34,7 @@
     "tag": "v1.0.3",
     "commit": "e42c66a004df890d2855f55354d7d01951d87825"
   },
-  "_source": "https://github.com/soumak77/firebase-mock.git",
+  "_source": "https://github.com/balaji-b-v/firebase-mock-v3.git",
   "_target": "^1.0.3",
   "_originalSource": "firebase-mock",
   "_direct": true
