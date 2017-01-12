@@ -1,6 +1,6 @@
 {
   "name": "firebase-mock-v3",
-  "version": "1.0.3",
+  "version": "0.0.10",
   "homepage": "https://github.com/balaji-b-v/firebase-mock-v3",
   "authors": [
     "Kato",
@@ -28,14 +28,14 @@
     "package.json",
     "src"
   ],
-  "_release": "1.0.3",
+  "_release": "0.0.10",
   "_resolution": {
     "type": "version",
-    "tag": "v1.0.3",
+    "tag": "v0.0.10",
     "commit": "e42c66a004df890d2855f55354d7d01951d87825"
   },
   "_source": "https://github.com/balaji-b-v/firebase-mock-v3.git",
-  "_target": "^1.0.3",
+  "_target": "^0.0.10",
   "_originalSource": "firebase-mock",
   "_direct": true
 }

@@ -1,6 +1,6 @@
 {
   "name": "firebase-mock-v3",
-  "version": "1.0.3",
+  "version": "0.0.10",
   "description": "Firebase mock V3 library for writing unit tests",
   "main": "./src",
   "scripts": {
@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/balaji-b-v/firebase-mock-v3",
   "dependencies": {
-    "MD5": "~1.2.1",
+    "md5": "~1.2.1",
     "browserify": "^6.3.2",
     "browserify-shim": "^3.8.0",
     "firebase-auto-ids": "~1.1.0",
