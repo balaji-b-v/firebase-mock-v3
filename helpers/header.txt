@@ -1,0 +1,4 @@
+/** <%= pkg.name %> - v<%= pkg.version %>
+<%= pkg.homepage %>
+* Copyright (c) 2016 <%= pkg.author %>
+* License: <%= pkg.license %> */
