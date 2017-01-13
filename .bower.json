@@ -1,10 +1,8 @@
 {
   "name": "firebase-mock-v3",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "homepage": "https://github.com/balaji-b-v/firebase-mock-v3",
   "authors": [
-    "Kato",
-    "soumak77",
     "balaji-b-v"
   ],
   "description": "Firebase mock  V3 library for writing unit tests",
@@ -28,14 +26,14 @@
     "package.json",
     "src"
   ],
-  "_release": "0.0.11",
+  "_release": "0.0.12",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.10",
+    "tag": "v0.0.12",
     "commit": "e42c66a004df890d2855f55354d7d01951d87825"
   },
   "_source": "https://github.com/balaji-b-v/firebase-mock-v3.git",
-  "_target": "^0.0.10",
+  "_target": "^0.0.12",
   "_originalSource": "",
   "_direct": true
 }
