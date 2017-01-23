@@ -1,7 +1,7 @@
 Firebase Mock V3 [![Build Status](https://travis-ci.org/balaji-b-v/firebase-mock-v3.svg?branch=master)](https://travis-ci.org/balaji-b-v/firebase-mock-v3)
 ============
 
-Firebase Mock V3 extends [mockfirebase](https://github.com/soumak77/firebase-mock) to provide support for Firebase 3.0.
+Firebase Mock V3 extends [firebase-mock](https://github.com/soumak77/firebase-mock) to provide support for Firebase 3.0.
 
 ## Setup
 
