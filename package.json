@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/balaji-b-v/firebase-mock-v3",
   "dependencies": {
-    "md5": "~1.2.1",
+    "md5": "~2.2.1",
     "browserify": "^6.3.2",
     "browserify-shim": "^3.8.0",
     "firebase-auto-ids": "~1.1.0",
