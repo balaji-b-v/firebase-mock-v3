@@ -13308,7 +13308,7 @@ module.exports = MockFirebase;
 'use strict';
 
 var _   = require('lodash');
-var md5 = require('MD5');
+var md5 = require('md5');
 
 /*******************************************************************************
  * SIMPLE LOGIN
@@ -13612,7 +13612,7 @@ function createDefaultUser (provider) {
 
 module.exports = MockFirebaseSimpleLogin;
 
-},{"MD5":2,"lodash":17}],22:[function(require,module,exports){
+},{"md5":2,"lodash":17}],22:[function(require,module,exports){
 'use strict';
 
 var _        = require('lodash');
