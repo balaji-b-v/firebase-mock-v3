@@ -1,4 +1,4 @@
-/** firebase-mock-v3 - v0.1.0
+/** firebase-mock-v3 - v0.1.1
 https://github.com/balaji-b-v/firebase-mock-v3
 * Copyright (c) 2016 Balaji Venkatesh
 * License: MIT */
@@ -14239,15 +14239,13 @@ exports.event = function (name) {
       },
       initializeApp: function(options){
         return {
-          {
             auth: function(){
-              return window.firebasemock.MockFirebaseSdk.auth;
+              return window.firebasemock.MockFirebaseSdk.auth();
             },
             database: function(){
-              return window.firebasemock.MockFirebaseSdk.database;
+              return window.firebasemock.MockFirebaseSdk.database();
             }
           }
-        }
       }
     };
     window.firebasemock.MockFirebaseSdk.auth.GoogleAuthProvider = function() {
