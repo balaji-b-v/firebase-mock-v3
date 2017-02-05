@@ -22,15 +22,13 @@
       },
       initializeApp: function(options){
         return {
-          {
             auth: function(){
-              return window.firebasemock.MockFirebaseSdk.auth;
+              return window.firebasemock.MockFirebaseSdk.auth();
             },
             database: function(){
-              return window.firebasemock.MockFirebaseSdk.database;
+              return window.firebasemock.MockFirebaseSdk.database();
             }
           }
-        }
       }
     };
     window.firebasemock.MockFirebaseSdk.auth.GoogleAuthProvider = function() {

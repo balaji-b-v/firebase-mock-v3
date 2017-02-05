@@ -1,4 +1,4 @@
-/** firebase-mock-v3 - v0.1.2
+/** firebase-mock-v3 - v0.1.3
 https://github.com/balaji-b-v/firebase-mock-v3
 * Copyright (c) 2016 Balaji Venkatesh
 * License: MIT */
